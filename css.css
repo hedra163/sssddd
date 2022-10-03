@@ -1,0 +1,38 @@
+
+
+
+.u {
+background-color: aqua;
+
+width: 100%;
+} 
+.m{
+background-color:green ;
+display:inline-block;
+width: 100vw;
+height: 100rem;
+margin: 0px;
+border: 0px;
+}
+
+.s{
+height: 20px;
+width: 100rem;
+/*position: relative;/
+left: 30%;
+;
+margin: 10px;
+}
+/*
+.l{
+background-color:yellow;
+display:inline-block;
+width: 30vw;;
+height: 100vw;
+margin: 0px;
+border: 0px
+}
+/*
+
+/*
+}
